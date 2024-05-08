@@ -169,7 +169,8 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ## OUTPUT
-![WhatsApp Image 2024-04-22 at 08 29 01_ae67c344](https://github.com/VISHVA12300/contentprovider/assets/119404426/94e2c695-d7da-4db4-be1c-5706a9f19af7)
+![Screenshot 2024-05-08 101656](https://github.com/VISHVA12300/contentprovider/assets/119404426/c3eeb053-4efb-455e-8649-bd1bd702502f)
+
 
 ![Screenshot 2024-04-22 082356](https://github.com/VISHVA12300/contentprovider/assets/119404426/06a10731-f888-498d-abfa-18266c2e879e)
 
